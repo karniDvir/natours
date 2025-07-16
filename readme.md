@@ -73,5 +73,5 @@ EMAIL_PORT=2525
 <h2>💬 Contact</h2>
 <p>
   For feedback or questions, feel free to open an issue or contact me:
-  <a href="mailto:karnidv@edu.hac.ac.il">dkarni07@gmail.com</a>
+  <a href="mailto:dkarni07@gmail.com">dkarni07@gmail.com</a>
 </p>
